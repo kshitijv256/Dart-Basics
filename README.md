@@ -4,4 +4,4 @@
 
 <br>
 
-#### This repository will contains most of the fundamentals required to get you started with writing code in dart.
+#### This repository will contains the fundamentals of dart programming language required to get you started.
