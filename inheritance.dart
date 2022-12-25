@@ -10,6 +10,6 @@ class Level2 extends Level1 {
 }
 
 void main() {
-  Level2 l2 = new Level2();
+  Level2 l2 = Level2();
   l2.printName();
 }
